@@ -23,8 +23,7 @@ header a {
 }
 
 main {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 1600px;
     flex-grow: 1;
     padding: 1rem;
 }
