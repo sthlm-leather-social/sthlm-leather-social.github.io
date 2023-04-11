@@ -37,6 +37,11 @@ footer {
     border: 1px solid black;
 }
 
+footer a {
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
