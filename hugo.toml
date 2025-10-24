@@ -1,0 +1,31 @@
+baseURL = 'https://stockholm-leather-social.se/'
+languageCode = 'en-us'
+title = 'Stockholm Leather Social'
+theme = 'bearcub'
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+
+[menu]
+  [[menu.home]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+  [[menu.about]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+  [[menu.faq]]
+    identifier = "faq"
+    name = "FAQ"
+    url = "/faq"
+
+[params]
+  description = "Stockholm Leather Social"
+
+  [params.social]
+    instagram = "stockholm.leather.social"
+
+  [params.author]
+    name = "Stockholm Leather Social"
+    email = "stockholm.leather.social@gmail.com"
