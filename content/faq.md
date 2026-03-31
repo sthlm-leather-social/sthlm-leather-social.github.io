@@ -1,7 +1,6 @@
 ---
 title: "FAQ"
-menu: "main"
-weight: 10
+date: 2026-03-31
 ---
 
 ## What is Leather?

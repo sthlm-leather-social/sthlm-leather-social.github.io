@@ -5,18 +5,18 @@ theme = "shibui"
 defaultContentLanguage = "en"
 
 [menu]
-  [[menu.home]]
-    identifier = "home"
+  [[menu.main]]
     name = "Home"
     url = "/"
-  [[menu.about]]
-    identifier = "about"
+    weight = 1
+  [[menu.main]]
     name = "About"
-    url = "/about"
-  [[menu.faq]]
-    identifier = "faq"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
     name = "FAQ"
-    url = "/faq"
+    url = "/faq/"
+    weight = 2
 
 [params]
   description = "Stockholm Leather Social"

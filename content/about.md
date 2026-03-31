@@ -1,7 +1,6 @@
 ---
 title: "About"
-menu: "main"
-weight: 10
+date: 2026-03-31
 ---
 
 Stockholm Leather Social is an initiative to bring Leather subculture into the streets. We further the rich Leather history of our city by facilitating safe and approachable spaces to foster local community in a public setting. In doing so we promote queer visibility in Stockholm.
