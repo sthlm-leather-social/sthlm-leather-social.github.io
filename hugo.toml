@@ -1,10 +1,8 @@
 baseURL = 'https://stockholm-leather-social.se/'
 languageCode = 'en-us'
 title = 'Stockholm Leather Social'
-theme = 'bearcub'
+theme = "shibui"
 defaultContentLanguage = "en"
-
-enableRobotsTXT = true
 
 [menu]
   [[menu.home]]
