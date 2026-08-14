@@ -7,8 +7,6 @@ Stockholm Leather Social is an initiative to bring Leather subculture into the s
 
 We encourage gearing up for our events, but realize that not everybody is in the same place in their Leather journey. No matter your gear or how you identify, you are welcome at Stockholm Leather Social. We are unapologetically queer and kink-friendly.
 
-The last Friday every month we organize a monthly bar meet for friends old and new.
-
 Find us on [Instagram](https://instagram.com/stockholm.leather.social) for event updates. [Contact us](mailto:Stockholm.Leather.Social@gmail.com) for inquiries.
 
 # MEDIA COVERAGE
