@@ -5,6 +5,15 @@ date: 2026-03-31
 
 # LAST FRIDAY EVERY MONTH*
 
+20:00 and onwards.
+
+* January 30th
+* February 27th
+* March 27th (Black Weekend)
+* April 24th
+* May 29th
+* June 26th (Black Weekend)
+* July 31st
 * August 28th (Black Weekend)
 * September 25th
 * October 30th
