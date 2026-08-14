@@ -28,6 +28,7 @@ defaultContentLanguage = "en"
 
 [params]
   description = "Stockholm Leather Social"
+  showreadingtime = false
 
   [params.social]
     instagram = "stockholm.leather.social"
