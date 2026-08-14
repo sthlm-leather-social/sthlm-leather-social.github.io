@@ -3,9 +3,7 @@ title: "DATES"
 date: 2026-03-31
 ---
 
-# LAST FRIDAY EVERY MONTH*
-
-20:00 and onwards.
+Last Friday every month*. 20:00 and onwards.
 
 * January 30th
 * February 27th
