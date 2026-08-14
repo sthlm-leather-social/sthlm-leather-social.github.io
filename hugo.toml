@@ -1,22 +1,30 @@
 baseURL = 'https://stockholm-leather-social.se/'
 languageCode = 'en-us'
-title = 'Stockholm Leather Social'
+title = 'SLS'
 theme = "shibui"
 defaultContentLanguage = "en"
 
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "HOME"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "DATES"
+    url = "/dates/"
     weight = 2
+  [[menu.main]]
+    name = "ABOUT"
+    url = "/about/"
+    weight = 3
   [[menu.main]]
     name = "FAQ"
     url = "/faq/"
-    weight = 2
+    weight = 3
+  [[menu.main]]
+    name = "REGNBÅGSPRISET"
+    url = "/regnbagspriset/"
+    weight = 4
 
 [params]
   description = "Stockholm Leather Social"

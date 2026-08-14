@@ -1,12 +1,11 @@
 ---
-title: "Home"
+title: "HOME"
 ---
 
-LAST FRIDAY EVERY MONTH
+# STOCKHOLM LEATHER SOCIAL
 
 Come on out to the monthly Leather meet at your neighborhood gay bar! Come as you are. Bring a friend.
 
-Follow us on [Instagram](https://instagram.com/stockholm.leather.social) or [Facebook](https://www.facebook.com/share/YsNa6vUq5jigANNo/) to stay updated on our events. [Contact us](mailto:Stockholm.Leather.Social@gmail.com) for inquiries.
+# ALL GEAR - ALL GENDER - ALL QUEER
 
-
-{{< figure src="poster.jpeg" >}}
+Find us on [Instagram](https://instagram.com/stockholm.leather.social) for event updates. [Contact us](mailto:Stockholm.Leather.Social@gmail.com) for inquiries.
