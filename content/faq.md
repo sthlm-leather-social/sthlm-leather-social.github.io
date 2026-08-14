@@ -11,7 +11,7 @@ definitions of Leather as there are Leatherpeople. Leather is a
 style, an identity, a community, and a subculture that celebrates
 kink, fetish, BDSM, and sex.
 
---- [Leather Archives & Museum](https://leatherarchives.libguides.com/whatisleather/)
+--- Leather Archives & Museum]
 
 # WHAT IS GEAR?
 
