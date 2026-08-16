@@ -1,5 +1,5 @@
 ---
-title: "HOME"
+title: "Stockholm Leather Social"
 ---
 
 # STOCKHOLM LEATHER SOCIAL
