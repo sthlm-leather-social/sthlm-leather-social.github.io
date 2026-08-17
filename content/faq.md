@@ -37,7 +37,7 @@ necessary.
 
 # WHAT ARE OTHER LEATHER COMMUNITIES?
 
-In addition to the social, Stockholm Leather subculture is mainly oriented around the following clubs and events:
+In addition to the Stockholm Leather Social, Stockholm Leather subculture is mainly oriented around the following clubs and events:
 
 * [Black Weekend](https://stockholm-black-weekend.se/)
 * [Scandinavian Leather Men](https://slmstockholm.se/en/)
