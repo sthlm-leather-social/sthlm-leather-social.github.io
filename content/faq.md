@@ -40,6 +40,7 @@ necessary.
 In addition to the Stockholm Leather Social, Stockholm Leather subculture is mainly oriented around the following clubs and events:
 
 * [Black Weekend](https://stockholm-black-weekend.se/)
+* [Baltic Battle](https://balticbattle.se/)
 * [Scandinavian Leather Men](https://slmstockholm.se/en/)
 * [Proteus Leather Sweden](https://swe.proteusleather.club/)
 * [BLUF Stockholm](https://www.instagram.com/blufstockholm/)
