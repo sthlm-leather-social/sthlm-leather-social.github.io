@@ -10,8 +10,8 @@ defaultContentLanguage = "en"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "DATES"
-    url = "/dates/"
+    name = "CALENDAR"
+    url = "/calendar/"
     weight = 2
   [[menu.main]]
     name = "ABOUT"
