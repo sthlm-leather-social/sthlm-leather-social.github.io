@@ -22,17 +22,17 @@ Last Friday every month, adjusted for holidays, 20:00 and onwards at [Side Track
 
 # 2027
 
-* \[ \] January 29th
+* \[ \] January 29th ([Black Weekend](https://stockholm-black-weekend.se/))
 * \[ \] February 26th
-* \[\*\] **March 19th**
+* \[\*\] **March 19th** ([Black Weekend](https://stockholm-black-weekend.se/))
 * \[ \] April 30th
 * \[ \] May 28th
-* \[\*\] **June 18th**
+* \[\*\] **June 18th** ([Black Weekend](https://stockholm-black-weekend.se/))
 * \[ \] July 30th
-* \[ \] August 27th
+* \[ \] August 27th ([Black Weekend](https://stockholm-black-weekend.se/))
 * \[ \] September 24th
 * \[ \] October 29th
-* \[ \] November 26th
+* \[ \] November 26th ([Black Weekend](https://stockholm-black-weekend.se/))
 * \[\*\] **December 17th**
 
 \* **adjusted for holidays**
