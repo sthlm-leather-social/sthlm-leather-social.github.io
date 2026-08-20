@@ -3,7 +3,7 @@ title: "CALENDAR"
 date: 2026-03-31
 ---
 
-Last Friday every month, adjusted for holidays, 20:00 and onwards at [Side Track](https://maps.app.goo.gl/1VEDhXFY8zsP3Zmn7).
+Last Friday every month, adjusted for public holidays, 20:00 and onwards at [Side Track](https://maps.app.goo.gl/1VEDhXFY8zsP3Zmn7).
 
 # 2026
 
@@ -35,7 +35,7 @@ Last Friday every month, adjusted for holidays, 20:00 and onwards at [Side Track
 * \[ \] November 26th ([Black Weekend](https://stockholm-black-weekend.se/))
 * \[\*\] **December 17th**
 
-\* **adjusted for holidays**
+\* **adjusted for public holidays**
 
 Find us on [Instagram](https://instagram.com/stockholm.leather.social) for event updates. [Contact us](mailto:Stockholm.Leather.Social@gmail.com) for inquiries.
 
